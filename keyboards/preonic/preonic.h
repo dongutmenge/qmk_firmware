@@ -38,4 +38,4 @@
 **                                               **
 **      Name of Alias     Matrix Name:           **
 ******* ----------------- ------------------- ****/
-#define LAYOUT_preonic_grid LAYOUT_ortho_5x12
+#define LAYOUT_preonic_grid LAYOUT_preonic_1x2uR
